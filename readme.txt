@@ -1,0 +1,4 @@
+first crawl
+可爬取华大在线要闻一栏下每条新闻的正文内容
+cleancontents.py清除html标签、url等
+segwords.py采用结巴分词
